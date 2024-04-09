@@ -83,3 +83,4 @@ Each class, with the exception of the `Headshot` and `Logo` classes, has a `data
 ## Contact
 
 Follow along for updates or reach out on Twitter [@py_ball_](https://twitter.com/py_ball_)!
+Anyrhi McCray
