@@ -10,8 +10,8 @@ test_boxscore.py
 This function contains the tests for
 functions in the boxscore.py file
 """
-
-from .__init__ import HEADERS
+# installed packages in the environment. 
+from . import HEADERS
 from ..boxscore import BoxScore
 
 def test_boxscore_advanced():
